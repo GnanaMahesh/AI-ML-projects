@@ -1,2 +1,3 @@
 # AI-ML-projects
 These are some AI/ML codes I had written as part of labs in IITBombay
+Here are some files which have implementation of simplex algorithm,linear regression,gradient descent,ridge regression,lasso regression, Stochastic Gradient Descent,logistic regression,perceptron,decesion trees,neural networks, Recurrent Neural Networks from scratch and using pytorch, Convolutional Neural Networks from scratch and using torch,kernel Support Vector machine,Principal component analysis,Linear Discriminant analysis,Clustering, Alpha-beta pruning in Gametheory,Strictly dominant equilibrium,Weakly dominant equilibrium,Nash equilibrium identifications from player strategies and utility matrix,Matching using Gale Shapley Algorithm. 
